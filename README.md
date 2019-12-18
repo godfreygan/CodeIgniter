@@ -1,2 +1,2 @@
-# bysj
-just bysj
+# CodeIgniter
+this is ci for php!
