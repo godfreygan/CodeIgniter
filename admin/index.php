@@ -1,0 +1,1 @@
+<?php header('location:/?n=admin&a=login&c=admin');
